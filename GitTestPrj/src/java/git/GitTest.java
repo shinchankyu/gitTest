@@ -8,6 +8,7 @@ public class GitTest {
 		System.out.println("second commit");
 		
 		System.out.println("neogener commit");
+		System.out.println("neogener commit2");
 		
 	}
 
