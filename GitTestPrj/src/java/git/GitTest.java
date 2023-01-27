@@ -9,6 +9,8 @@ public class GitTest {
 		
 		System.out.println("neogener commit");
 		
+		System.out.println("main_copy commit");
+		
 	}
 
 }
