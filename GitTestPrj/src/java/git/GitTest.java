@@ -12,6 +12,8 @@ public class GitTest {
 		System.out.println("neogener commit2");
 		System.out.println("neogener commit3");
 		
+		System.out.println("main_copy commit");
+		
 	}
 
 }
