@@ -6,6 +6,9 @@ public class GitTest {
 		// TODO Auto-generated method stub
 		//1. 
 		System.out.println("second commit");
+		
+		System.out.println("neogener commit");
+		
 	}
 
 }
