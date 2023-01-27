@@ -9,6 +9,8 @@ public class GitTest {
 		System.out.println("main commit2");
 		
 		System.out.println("neogener commit");
+		System.out.println("neogener commit2");
+		System.out.println("neogener commit3");
 		
 	}
 
